@@ -1,2 +1,2 @@
-# Shoot-It-Up-
+# Shoot-It-Up!
 FPS shooter game
